@@ -1,0 +1,5 @@
+f = open('example.txt','r')
+print(*f)
+print(f)
+print(type(f))
+f.close()

@@ -1,0 +1,4 @@
+petro: 2
+xleb: 46
+vitia: 12
+gleb: 45
